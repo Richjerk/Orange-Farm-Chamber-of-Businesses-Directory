@@ -1,0 +1,12 @@
+{
+  "name": "Orange-Farm-Chamber-of-Businesses-Directory",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "jsdom": "^25.0.0",
+    "mongodb": "^6.8.1"
+  }
+}
